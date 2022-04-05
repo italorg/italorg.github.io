@@ -10,3 +10,25 @@ ul{
 h1{
     text-align: center;
 }
+div{
+    border: 1px solid black;
+}
+.about-content{
+    display: inline-block;
+    width: 90%;
+    text-align: left;
+    line-height: 1.5;
+}
+#foto-do-italo{
+    float: left;
+    margin-right: 50px;
+    background-color: black;
+    padding: 5px;
+}
+.skills-list li:nth-child(odd){
+    background-color: grey;
+}
+.skills-list li{
+    border: 1px black solid; 
+}
+
